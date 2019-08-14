@@ -2,24 +2,24 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://github.com/pancraslv
 date_format: "ordinal"
 title: 三价铝离子
 subtitle: "余生皆假期"
 description: "ricardo的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+timezone: China/Shenyang
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: pc Lv
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
+github_username: pancraslv
+location: Shenyang, China
 email: chumpma@gmail.com
 
 # ---------------- #
