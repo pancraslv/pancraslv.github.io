@@ -11,7 +11,7 @@ type: page
 
 ## 工具
 
-* [box-shadow generator](http://www.cssmatic.com/box-shadow)
+<!-- * [box-shadow generator](http://www.cssmatic.com/box-shadow)
 
     生成 box-shadow 的工具。
 
@@ -43,11 +43,11 @@ type: page
     - 这个功能更强大一点，能清楚的区分出贪婪和懒惰正则。
 - [http://regexr.com/](http://regexr.com/)
 - [google fonts](https://fonts.google.com/)
-  - [Google Fonts 加速代理](https://fengmk2.com/blog/2016/google-fonts-mirror)
+  - [Google Fonts 加速代理](https://fengmk2.com/blog/2016/google-fonts-mirror) -->
 
 ## 编程语言
 
-### JavaScript
+<!-- ### JavaScript
 
 * [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/)
 
@@ -140,9 +140,9 @@ type: page
 
 ### 测试
 
-* [测试框架 Mocha 实例教程 阮一峰](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+* [测试框架 Mocha 实例教程 阮一峰](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html) -->
 
-## 类库与插件
+<!-- ## 类库与插件
 
 * [Masonry](http://masonry.desandro.com/)
 
@@ -162,9 +162,9 @@ type: page
 
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 
-  A simple vanilla JS script to animate scrolling to anchor links.
+  A simple vanilla JS script to animate scrolling to anchor links. -->
 
-## 模块化
+<!-- ## 模块化
 
 * [后端程序员的 JavaScript 之旅 - 模块化（一）](http://lishaopeng.com/2016/02/05/js-module/)
 * [后端程序员的 JavaScript 之旅 - 模块化（二）](http://lishaopeng.com/2016/02/11/js-module2/)
@@ -211,16 +211,8 @@ type: page
 
 UI Theme: One Dark
 
-Syntax Theme: Atom Dark or One Dark
+Syntax Theme: Atom Dark or One Dark -->
 
-## GitBook 及其插件
-
-* [Gitbook 的使用和常用插件 -赵达](http://zhaoda.net/2015/11/09/gitbook-plugins/)
-* [gitbook-plugin-expandable-chapters](https://plugins.gitbook.com/plugin/expandable-chapters)
-
-    折叠左侧目录章节。
-
-    <!-- ![](http://ww4.sinaimg.cn/large/7011d6cfjw1f08kmplbj1j20gn05l0tk.jpg) -->
 
 ## Chrome 插件
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
@@ -234,7 +226,7 @@ Syntax Theme: Atom Dark or One Dark
 
     新建 tab 时，显示 dribbble 上的精选作品。
 
-## Other blogs
+<!-- ## Other blogs
 
 - [COLORFUL xiaoa](http://www.xiaoa.name/)
 
@@ -288,7 +280,7 @@ Syntax Theme: Atom Dark or One Dark
 
 - [https://gyrosco.pe/](https://gyrosco.pe/)
 
-    首页的卡片翻动效果非常赞。
+    首页的卡片翻动效果非常赞。 -->
 
 ## Comments
 
