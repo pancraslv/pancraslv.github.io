@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://github.com/pancraslv
+baseurl:https://
+url: https://github.com/pancraslv/pancraslv.github.io
 date_format: "ordinal"
 title: 三价铝离子
 subtitle: "余生皆假期"
