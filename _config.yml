@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:https://
+baseurl:https://github.com/pancraslv/pancraslv.github.io
 url: https://github.com/pancraslv/pancraslv.github.io
 date_format: "ordinal"
 title: 三价铝离子
